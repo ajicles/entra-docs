@@ -131,6 +131,8 @@ Follow these steps to enable Microsoft Entra SSO in the Azure portal:
 
    ![Screenshot that shows the certificate download link.](common/certificatebase64.png)
 
+1. Under **SAML Certifications**, select Edit. Ensure that Signing option **Sign SAML response and assertion** is selected.
+
 1. In the **Set up FortiGate SSL VPN** section, copy the appropriate URL or URLs, based on your requirements:
 
    ![Screenshot that shows the configuration URLs.](common/copy-configuration-urls.png)
